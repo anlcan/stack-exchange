@@ -21,8 +21,8 @@ Birbirine mesleki acidan taniyan ve saygi duyan, benzer sorunlari, benzer ortaml
 
 Bulusmalarda konusulabilecek konulari, daginik onem sirasina gore siralamaya calistim, oneri ve yorumlari github uzerinden gonderebilirsiniz. 
 
-
-- Growth  (how to hire & fire ?)
+- Testing (last commit to production)
+- HR for beginners (how to hire & fire ?)
 - Planning (Does this have an issue on Jira?)
 - Scaling up (buying servers until it works)
 - CI & CD (It works on my machine)
